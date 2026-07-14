@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gAPI_2
+
+api:
+  genius:
+    base-url: https://api.genius.com
+    token: vvbxiF3u9iVlsX5NcTmakNcjzPNpfWJ27Kcl5i1UPP2whdOxC7z9P3BnVZ2EgWHx
