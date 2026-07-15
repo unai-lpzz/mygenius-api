@@ -18,7 +18,7 @@ El servicio expone los siguientes endpoints privados:
 * **`GET /api/private/artists/{id}/songs`**
   Devuelve de manera exclusiva la lista de las 10 canciones más populares del artista especificado por su ID.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 * Java
 * Spring Boot
 * Spring Web (RestClient)
