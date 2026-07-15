@@ -1,6 +1,6 @@
-# Genius Artist API
+# Genius Artist API v1
 
-Una API REST desarrollada en Spring Boot que se integra con la API oficial de Genius. Este proyecto actúa como un servicio intermediario para consultar información específica de artistas musicales y sus temas más exitosos. 
+Una API REST desarrollada en Spring Boot que se integra con la API oficial de Genius. Este proyecto (en construcción) actúa como un servicio intermediario para consultar información específica de artistas musicales y sus temas más exitosos. 
 
 El proyecto está diseñado enfocándose en buenas prácticas de desarrollo, una arquitectura limpia y la utilización de herramientas modernas del framework para peticiones HTTP.
 
